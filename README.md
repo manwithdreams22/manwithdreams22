@@ -52,7 +52,6 @@ IDS: ACTIVE
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manwithdreams22&show_icons=true&theme=midnight-purple" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=midnight-purple" /> </p>
 
 
 + Improving cybersecurity skills
