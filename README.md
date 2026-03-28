@@ -75,6 +75,6 @@ IDS: ACTIVE
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=midnight-purple" /> </p>
 
-<p color="purple">eğer sen de bazen sistemin dışında ama ondan tamamen kopamıyor gibi hissediyorsan sende bendensin.</p>
+<p align="center">eğer sen de bazen sistemin dışında ama ondan tamamen kopamıyor gibi hissediyorsan sende bendensin.</p>
 
 <p align="center"> 🟣 Zion needs me. 🟣 </p>
