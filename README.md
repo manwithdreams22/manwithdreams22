@@ -1,20 +1,65 @@
-<h1 align="center">Hi 👋, I'm Muhammet</h1>
-<h3 align="center">student of the information technologies</h3>
+<!-- ====================================== -->
+<!--       MANWITHDREAMS22 ULTIMATE README -->
+<!-- ====================================== -->
 
-- 🌱 I’m currently learning **Cyber Security, Network, Operating Systems(Linux,Windows),**
-
-- 💬 Ask me about **Cyber Security,Network,Hardware,Software**
-
-- ⚡ Fun fact **I've been living with computers since I was 7 years old.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8A2BE2&height=200&section=header&text=manwithdreams22&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Purple%20Team%20Operator%20In%20Progress&descAlignY=55&descSize=18"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Wake+Up+Operator...;Purple+Team+Mode+Activated;Think+Like+Attacker+%26+Defender;Cybersecurity+Student" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=dark" alt="manwithdreams22" /></p>
++ SYSTEM STATUS: ONLINE
++ USER: manwithdreams22
++ ROLE: PURPLE TEAM (IN TRAINING)
+👤 Identity
+> username: manwithdreams22
+> role: Cybersecurity Student
+> focus: Purple Team (Red + Blue)
+> mindset: Break it. Understand it. Secure it.
+🖥️ Live Terminal Simulation
+┌──(manwithdreams22㉿kali)-[~/purple-team]
+└─$ whoami
+purple-operator
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manwithdreams22&label=Profile%20views&color=0e13b4&style=flat" alt="manwithdreams22" /> </p>
+└─$ nmap -sS target.com
+Scanning...
+Ports open: 22, 80, 443
+
+└─$ exploit --analyze
+Analyzing vulnerabilities...
+Entry point detected
+
+└─$ defend --activate
+Firewall: ENABLED
+IDS: ACTIVE
+
+└─$ status
+[✔] Attacker mindset
+[✔] Defender mindset
+[✔] Purple Team Mode ON
+
+<table align="center"> <tr> <td align="center" width="50%"> ### 🔴 Red Team (Attack) ```diff + Reconnaissance + Exploitation + Privilege Escalation + Web Attacks ``` </td> <td align="center" width="50%"> ### 🔵 Blue Team (Defense) ```diff + Monitoring + Threat Detection + Log Analysis + Incident Response ``` </td> </tr> </table>
+
+<p align="center"> <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-8A2BE2?style=for-the-badge&logo=tryhackme&logoColor=black"/></a> <a href="https://www.hackthebox.eu/"><img src="https://img.shields.io/badge/HackTheBox-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=black"/></a> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" /> </p>
+> tools:
+- Nmap
+- Burp Suite
+- Wireshark
+- Metasploit
+- Postman
+- Kali Linux
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manwithdreams22&show_icons=true&theme=midnight-purple" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=midnight-purple" /> </p>
+
+🚀 Current Mission
++ Improving cybersecurity skills
++ Practicing CTF & labs
++ Building real-world knowledge
+- WARNING: Unauthorized access detected
++ You are now inside the system...
+<p align="center"> 🟣 THERE IS NO SPOON 🟣 </p>
