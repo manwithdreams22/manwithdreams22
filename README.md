@@ -16,11 +16,15 @@
 + ROLE: PURPLE TEAM 
 
 > username: manwithdreams22
+<br>
 > role: Information Technologies Student
+<br>
 > focus: Purple Team (Red + Blue)
+<br>
 > mindset: Break it. Understand it. Secure it.
 
 ┌──(manwithdreams22㉿kali)-[~/purple-team]
+<br>
 └─$ whoami
 purple-operator
 <br>
@@ -44,10 +48,11 @@ IDS: ACTIVE
 <table align="center"> <tr> <td align="center" width="50%"> ### 🔴 Red Team (Attack) + Reconnaissance + Exploitation + Privilege Escalation + Web Attacks  </td> <td align="center" width="50%"> ### 🔵 Blue Team (Defense)  + Monitoring + Threat Detection + Log Analysis + Incident Response </td> </tr> </table>
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,csharp,js" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=arduino,bash,cs,css,html,debian,docker,git,js,kali,linux,ps,postman,powershell,py,stackoverflow,visualstudio,vim,vscode,windows" /> </p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manwithdreams22&show_icons=true&theme=midnight-purple" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=midnight-purple" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manwithdreams22&show_icons=true&theme=midnight-purple" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=midnight-purple" /> </p>
 
 
 + Improving cybersecurity skills
