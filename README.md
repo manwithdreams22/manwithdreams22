@@ -2,13 +2,35 @@
 <!--       MANWITHDREAMS22 ULTIMATE README -->
 <!-- ====================================== -->
 
+<!-- MATRIX GIF HEADER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKGMjJbHq1Q1b2/giphy.gif" width="100%" />
+</p>
+
+<!-- MOR BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Man%20With%20Dreams&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technologies%20Student&descAlignY=55&descSize=18"/>
 </p>
 
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=%E2%80%9CD%C3%BC%C5%9F%C3%BCn%C3%BCyorum,+%C3%B6yleyse+var%C4%B1m.%E2%80%9D;%E2%80%9CBeni+%C3%B6ld%C3%BCrmeyen+%C5%9Fey,+g%C3%BC%C3%A7lendirir.%E2%80%9D;%E2%80%9CVeni,+vidi,+vici%E2%80%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=There+is+no+spoon;Welcome+to+the+real+world;The+human+element+is+the+weakest+link;Veni+Vidi+Vici" />
 </p>
+
+---
+
+## 🧠 Hacker Philosophy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+</p>
+
+
+> mindset loaded...
+
+"The human element is the weakest link." - Kevin Mitnick
+"Security is a process, not a product." - Bruce Schneier
+"There is no spoon." - Matrix
 
 
 + SYSTEM STATUS: ONLINE
