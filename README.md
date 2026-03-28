@@ -16,11 +16,11 @@
 + ROLE: PURPLE TEAM 
 
 > username: manwithdreams22
-<br>
+
 > role: Information Technologies Student
-<br>
+
 > focus: Purple Team (Red + Blue)
-<br>
+
 > mindset: Break it. Understand it. Secure it.
 
 ┌──(manwithdreams22㉿kali)-[~/purple-team]
