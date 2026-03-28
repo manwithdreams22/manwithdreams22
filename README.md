@@ -67,12 +67,7 @@ Entry point detected
 Firewall: ENABLED
 IDS: ACTIVE
 <br>
-└─$ status
-<br>
-[✔] Attacker mindset
-[✔] Defender mindset
-[✔] Purple Team Mode ON
-<br>
+
 <table align="center"> <tr> <td align="center" width="50%"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2huYXV2OTVsbnZudDk1eG9wNTZ1MWM5dm4wMWhyNXJ6ZzJlMjhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KazG5bdau9pIqS90oj/giphy.gif" width="%50" />  </td> <td align="center" width="50%"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4NG96N281ODZvNmJyc2VkdnFwcmRkemQzOW5jcWRib3BsZ3U0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" </td> </tr> </table>
 
 
@@ -80,10 +75,6 @@ IDS: ACTIVE
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=midnight-purple" /> </p>
 
+<h1 color="purple">eğer sen de bazen sistemin dışında ama ondan tamamen kopamıyor gibi hissediyorsan sende bendensin.</h1>
 
-+ Improving cybersecurity skills
-+ Practicing CTF & labs
-+ Building real-world knowledge
-- WARNING: Unauthorized access detected
-+ You are now inside the system...
-<p align="center"> 🟣 THERE IS NO SPOON 🟣 </p>
+<p align="center"> 🟣 Zion needs me. 🟣 </p>
