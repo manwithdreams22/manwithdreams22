@@ -22,8 +22,6 @@
 </p>
 
 
-> mindset loaded...
-
 "The human element is the weakest link." - Kevin Mitnick
 <br>
 "Security is a process, not a product." - Bruce Schneier
@@ -33,7 +31,6 @@
 “You take the red pill… you stay in Wonderland.” – Morpheus
 
 
-+ SYSTEM STATUS: ONLINE
 
 > username: manwithdreams22
 
