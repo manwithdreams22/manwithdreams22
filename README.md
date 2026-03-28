@@ -1,6 +1,4 @@
-<!-- ====================================== -->
-<!--       MANWITHDREAMS22 ULTIMATE README -->
-<!-- ====================================== -->
+
 <!-- MOR BANNER -->
 <p align="center">
   <img width="2000" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Man%20With%20Dreams&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technologies%20Student&descAlignY=55&descSize=18"/>
@@ -12,12 +10,11 @@
 </p>
 
 
-<!-- TYPING -->
+<!-- SÖZLER -->
 <p align="center">
     <img width="%75" src="https://readme-typing-svg.herokuapp.com?color=4B0082&center=true&vCenter=true&lines=%E2%80%9CD%C3%BC%C5%9F%C3%BCn%C3%BCyorum,+%C3%B6yleyse+var%C4%B1m.%E2%80%9D;%E2%80%9CBeni+%C3%B6ld%C3%BCrmeyen+%C5%9Fey,+g%C3%BC%C3%A7lendirir.%E2%80%9D;%E2%80%9CVeni,+vidi,+vici%E2%80%9D" />
 </p>
 
----
 
 
 <p align="center">
@@ -46,27 +43,9 @@
 
 > mindset: Break it. Understand it. Secure it.
 
-┌──(manwithdreams22㉿kali)-[~/purple-team]
-<br>
-└─$ whoami
-<br>
-purple-operator
-<br>
-└─$ nmap -sS target.com
-<br>
-Scanning...
-Ports open: 22, 80, 443
-<br>
-└─$ exploit --analyze
-<br>
-Analyzing vulnerabilities...
-Entry point detected
-<br>
-└─$ defend --activate
-<br>
-Firewall: ENABLED
-IDS: ACTIVE
-<br>
+
+──(manwithdreams22㉿kali)-[~/Desktop]
+
 
 <table align="center"> <tr> <td align="center" width="50%"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2huYXV2OTVsbnZudDk1eG9wNTZ1MWM5dm4wMWhyNXJ6ZzJlMjhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KazG5bdau9pIqS90oj/giphy.gif" width="%75" />  </td> <td align="center" width="50%"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4NG96N281ODZvNmJyc2VkdnFwcmRkemQzOW5jcWRib3BsZ3U0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" width="%75" </td> </tr> </table>
 
