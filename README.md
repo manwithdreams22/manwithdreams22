@@ -3,11 +3,11 @@
 <!-- ====================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:8A2BE2&height=200&section=header&text=manwithdreams22&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Man With Dreams ... &descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Man%20With%20Dreams&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technologies%20Student&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=“Düşünüyorum, öyleyse varım.”;“Beni öldürmeyen şey, güçlendirir.”;“Veni, vidi, vici”" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&lines=%E2%80%9CD%C3%BC%C5%9F%C3%BCn%C3%BCyorum,+%C3%B6yleyse+var%C4%B1m.%E2%80%9D;%E2%80%9CBeni+%C3%B6ld%C3%BCrmeyen+%C5%9Fey,+g%C3%BC%C3%A7lendirir.%E2%80%9D;%E2%80%9CVeni,+vidi,+vici%E2%80%9D" />
 </p>
 
 
