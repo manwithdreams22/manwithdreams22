@@ -1,16 +1,16 @@
 <!-- ====================================== -->
 <!--       MANWITHDREAMS22 ULTIMATE README -->
 <!-- ====================================== -->
+<!-- MOR BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Man%20With%20Dreams&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technologies%20Student&descAlignY=55&descSize=18"/>
+</p>
 
 <!-- MATRIX GIF HEADER -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdlcDZlZDZlbjYwZ2FqNTI1enZkNmJqNmM5NjllaWhuNnVpanpwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3l5yJWhnbw5yyqDcQg/giphy.gif" width="100%" />
 </p>
 
-<!-- MOR BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Man%20With%20Dreams&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technologies%20Student&descAlignY=55&descSize=18"/>
-</p>
 
 <!-- TYPING -->
 <p align="center">
@@ -19,10 +19,9 @@
 
 ---
 
-## 🧠 Hacker Philosophy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzc5bDN4amxiZ2lkczVpOHQ1cnpzcHR4MDRlbjVwZG1oa2lpbjJ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="300"/>
 </p>
 
 
