@@ -26,21 +26,26 @@
 ┌──(manwithdreams22㉿kali)-[~/purple-team]
 <br>
 └─$ whoami
+<br>
 purple-operator
 <br>
 └─$ nmap -sS target.com
+<br>
 Scanning...
 Ports open: 22, 80, 443
 <br>
 └─$ exploit --analyze
+<br>
 Analyzing vulnerabilities...
 Entry point detected
 <br>
 └─$ defend --activate
+<br>
 Firewall: ENABLED
 IDS: ACTIVE
 <br>
 └─$ status
+<br>
 [✔] Attacker mindset
 [✔] Defender mindset
 [✔] Purple Team Mode ON
