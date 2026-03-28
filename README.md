@@ -3,7 +3,7 @@
 <!-- ====================================== -->
 <!-- MOR BANNER -->
 <p align="center">
-  <img width="%100" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Man%20With%20Dreams&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technologies%20Student&descAlignY=55&descSize=18"/>
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Man%20With%20Dreams&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technologies%20Student&descAlignY=55&descSize=18"/>
 </p>
 
 <!-- MATRIX GIF HEADER -->
