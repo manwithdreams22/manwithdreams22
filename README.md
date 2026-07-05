@@ -4,8 +4,6 @@
   <img width="2000" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Muhammet%20İÇTEN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CyberSecurity%20Student&descAlignY=55&descSize=18"/>
 </p>
 
-──(muhammet㉿kali)-[~/Desktop]
-
 <!-- SÖZLER -->
 <p align="center">
     <img width="%75" src="https://readme-typing-svg.herokuapp.com?color=4B0082&center=true&vCenter=true&lines=%E2%80%9CD%C3%BC%C5%9F%C3%BCn%C3%BCyorum,+%C3%B6yleyse+var%C4%B1m.%E2%80%9D;%E2%80%9CBeni+%C3%B6ld%C3%BCrmeyen+%C5%9Fey,+g%C3%BC%C3%A7lendirir.%E2%80%9D;%E2%80%9CVeni,+vidi,+vici%E2%80%9D" />
