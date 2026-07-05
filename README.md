@@ -28,8 +28,6 @@
 
 <p width="%35" align="center">eğer sen de bazen sistemin dışında ama ondan tamamen kopamıyor gibi hissediyorsan sende bendensin.</p>
 
-<p align="center"> 🟣 Zion needs me. 🟣 </p>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=manwithdreams22&&style=rounded" align="center" />
 </div>  
