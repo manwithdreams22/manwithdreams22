@@ -4,11 +4,6 @@
   <img width="2000" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Muhammet%20İÇTEN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CyberSecurity%20Student&descAlignY=55&descSize=18"/>
 </p>
 
-<!-- MATRIX GIF HEADER -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdlcDZlZDZlbjYwZ2FqNTI1enZkNmJqNmM5NjllaWhuNnVpanpwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3l5yJWhnbw5yyqDcQg/giphy.gif" width="70%" />
-</p>
-
 
 <!-- SÖZLER -->
 <p align="center">
