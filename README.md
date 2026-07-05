@@ -4,6 +4,7 @@
   <img width="2000" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Muhammet%20İÇTEN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CyberSecurity%20Student&descAlignY=55&descSize=18"/>
 </p>
 
+──(muhammet㉿kali)-[~/Desktop]
 
 <!-- SÖZLER -->
 <p align="center">
@@ -17,21 +18,7 @@
 "Security is a process, not a product." - Bruce Schneier
 <br>
 "stupidity is not patchable."
-<br>
-“You take the red pill… you stay in Wonderland.” – Morpheus
 
-
-
-> username: manwithdreams22
-
-> role: Information Technologies Student
-
-> focus: Cyber Security Purple Team
-
-> mindset: Break it. Understand it. Secure it.
-
-
-──(manwithdreams22㉿kali)-[~/Desktop]
 
 
 <table align="center"> <tr> <td align="center" width="50%"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2huYXV2OTVsbnZudDk1eG9wNTZ1MWM5dm4wMWhyNXJ6ZzJlMjhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KazG5bdau9pIqS90oj/giphy.gif" width="%75" />  </td> <td align="center" width="50%"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4NG96N281ODZvNmJyc2VkdnFwcmRkemQzOW5jcWRib3BsZ3U0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" width="%75" </td> </tr> </table>
