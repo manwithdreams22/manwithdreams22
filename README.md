@@ -12,11 +12,6 @@
 
 
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzc5bDN4amxiZ2lkczVpOHQ1cnpzcHR4MDRlbjVwZG1oa2lpbjJ6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="%70"/>
-</p>
-
-
 "The human element is the weakest link." - Kevin Mitnick
 <br>
 "Security is a process, not a product." - Bruce Schneier
