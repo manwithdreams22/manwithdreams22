@@ -1,7 +1,7 @@
 
 <!-- MOR BANNER -->
 <p align="center">
-  <img width="2000" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Muhammet%20İÇTEN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student&descAlignY=55&descSize=18"/>
+  <img width="2000" src="https://capsule-render.vercel.app/api?type=waving&color=2C003E,4B0082&height=200&section=header&text=Muhammet%20İÇTEN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=technician&descAlignY=55&descSize=18"/>
 </p>
 
 <!-- SÖZLER -->
