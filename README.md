@@ -24,7 +24,6 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=arduino,bash,cs,css,html,debian,docker,git,js,kali,linux,ps,postman,powershell,py,stackoverflow,visualstudio,vim,vscode,windows" /> </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=manwithdreams22&theme=midnight-purple" /> </p>
 
 <p width="%35" align="center">eğer sen de bazen sistemin dışında ama ondan tamamen kopamıyor gibi hissediyorsan sende bendensin.</p>
 
